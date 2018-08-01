@@ -77,7 +77,7 @@ public static void main(String [] args){}	//Java
 ```
 
 ```go
-public static void main(String [] args){}	//Java
+public static void main(String [] args){}	//go
 ```
 
 
